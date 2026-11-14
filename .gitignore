@@ -1,0 +1,14 @@
+# Java build files
+/build/
+/dist/
+
+# NetBeans private settings
+/nbproject/private/
+
+# IDE files
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
